@@ -1,7 +1,7 @@
-teste
+﻿teste
 # Anotações do curso de Introdução à Git e GitHub 
 
-**Topicos**
+**Tópicos**
 
 * Introdução ao Git
 * Navegação via command line interface e instalação

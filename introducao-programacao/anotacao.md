@@ -1,6 +1,6 @@
-# Anotações do curso de Introdução à Programação e Pensamento Computacional 
+﻿# Anotações do curso de Introdução à Programação e Pensamento Computacional 
 
-**Topicos**
+**Tópicos**
 
 * Pensamento computacional
 * Introdução á lógica de programação
