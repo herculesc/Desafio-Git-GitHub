@@ -1,5 +1,4 @@
-﻿teste
-# Anotações do curso de Introdução à Git e GitHub 
+﻿# Anotações do curso de Introdução à Git e GitHub 
 
 **Tópicos**
 
